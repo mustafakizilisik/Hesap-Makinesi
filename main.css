@@ -1,0 +1,153 @@
+body{
+
+    background-color: #02A9A2;
+    
+}
+
+#divAna{
+    
+    margin-top: 90px;
+    margin-left: 35%;
+    background-color: white;
+    padding: 20px;
+    height: 330px;
+    width: 325px;
+    border: 2px solid;
+    border-radius: 10px;    
+    box-shadow: 25px 50px #018C87;
+}
+
+input{
+    
+    text-align: right;
+    margin-left: 5px;
+    height: 70px;
+    width: 305px;
+    font-size: 50px;
+    margin-bottom: 30px;
+    margin-top: 10px;
+    border-radius: 10px;
+    background-color: #02A9A2;
+    color:white;
+}
+
+#div1{
+    
+    padding: 5px;
+    cursor: pointer;
+    margin-right: 5px;
+    float: left;
+}
+
+#div1>div{
+
+    background-color: #02A9A2;
+    text-align: center;
+    padding: 5px;
+    margin-bottom: 5px;
+    width: 40px;
+    height: 25px;
+    border-radius: 5px;
+    color:white;
+    
+}
+
+#div2{
+   
+    padding: 5px;
+    cursor: pointer;
+    margin-right: 5px;
+    float: left;
+}
+
+#div2>div{
+
+    background-color: #02A9A2;
+    text-align: center;
+    padding: 5px;
+    margin-bottom: 5px;
+    width: 40px;
+    height: 25px;
+    border-radius: 5px;
+    color:white;
+}
+
+#div3{
+  
+    padding: 5px;
+    cursor: pointer;
+    margin-right: 5px;
+    float: left;
+}
+
+#div3>div{
+
+    background-color: #02A9A2;
+    text-align: center;
+    padding: 5px;
+    margin-bottom: 5px;
+    width: 40px;
+    height: 25px;
+    border-radius: 5px;
+    color:white;
+}
+
+
+#div4{
+  
+    padding: 5px;
+    cursor: pointer;
+    margin-right: 5px;
+    float: left;
+}
+
+#div4>div{
+
+    background-color: #02A9A2;
+    text-align: center;
+    padding: 5px;
+    margin-bottom: 5px;
+    width: 40px;
+    height: 25px;
+    border-radius: 5px;
+    color:white;
+}
+
+div>#divTopla{
+
+    height: 55px;
+    padding-top: 15px;
+    font-size: 30px;
+    border-radius: 5px;
+}
+
+#div5{
+  
+    padding: 5px;
+    cursor: pointer;
+    margin-right: 5px;
+    float: left;
+}
+
+#div5>div{
+
+    background-color: #02A9A2;
+    text-align: center;
+    padding: 5px;
+    margin-bottom: 5px;
+    width: 40px;
+    height: 25px;
+    border-radius: 5px;
+    color:white;
+}
+div #rakamlar{
+
+    background-color: #02A9A2;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+div #fonksiyonlar{
+
+    font-size: 24px;
+}
